@@ -214,5 +214,15 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ---
 
 <div align="center">
+   <b> names of the students participating in the project </b> 
+     <b> 1-Mohamed Moshrq saleh </b>
+     <b> 2-Khitam Mu'tasim </b>
+     <b> 3-Abdulrahman Tariq </b> 
+     <b> 4-Mohammed Jasim </b> 
+
+     
+
+     
+
   <b>Built with ❤️ using ESP32-CAM + AI</b>
 </div>
