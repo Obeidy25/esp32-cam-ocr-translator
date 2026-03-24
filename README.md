@@ -1,5 +1,10 @@
 # 📸 ESP32-CAM OCR Translator
 
+
+![photo_2026-03-18_01-07-19](https://github.com/user-attachments/assets/96836235-71b2-492b-9f5c-2098a518fab8)
+
+
+
 > A smart IoT device that captures images, extracts text using AI-powered OCR, and translates it in real-time — all from a sleek web interface served directly by the ESP32-CAM.
 
 ![ESP32-CAM](https://img.shields.io/badge/ESP32--CAM-AI%20Thinker-blue)
