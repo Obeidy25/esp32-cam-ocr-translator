@@ -214,21 +214,11 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ---
 
 <div align="center">
-   <b> names of the students participating in the project </b> 
-     <b> 1-Mohamed Moshrq saleh </b>
-
-     
-     <b> 2-Khitam Mu'tasim </b>
-
-     
-     <b> 3-Abdulrahman Tariq </b> 
-
-     
-     <b> 4-Mohammed Jasim </b> 
-
-     
-
-     
-
-  <b>Built with ❤️ using ESP32-CAM + AI</b>
+  <p><b>names of the students participating in the project</b></p>
+  <p><b style="color: black;">1- Mohamed Moshrq Saleh</b></p>
+  <p><b style="color: black;">2- Khitam Mu'tasim</b></p>
+  <p><b style="color: black;">3- Abdulrahman Tariq</b></p>
+  <p><b style="color: black;">4- Mohammed Jasim</b></p>
+  <br>
+  <b style="color: black;">Built with ❤️ using ESP32-CAM + AI</b>
 </div>
