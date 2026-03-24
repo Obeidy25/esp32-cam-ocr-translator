@@ -1,7 +1,7 @@
 # 📸 ESP32-CAM OCR Translator
 
 
-![photo_2026-03-18_01-07-19](https://github.com/user-attachments/assets/96836235-71b2-492b-9f5c-2098a518fab8)
+<img width="1346" height="864" alt="Screenshot 2026-03-25 023326" src="https://github.com/user-attachments/assets/6f543680-93de-43ab-bad2-5352b583a09b" />
 
 
 
